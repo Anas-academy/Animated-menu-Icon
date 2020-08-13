@@ -1,0 +1,12 @@
+
+/* color variables */
+:root{
+    --background-color:#F1DCFF;
+    --icon-color:#250F34;
+}
+
+/* Reset */
+*{
+    padding: 0;
+    margin: 0;
+}
